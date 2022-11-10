@@ -661,7 +661,6 @@ p {
     font-weight: 700;
     font-size: 20px;
     line-height: 23px;
-
     color: #E05100;
 }
 
@@ -711,13 +710,16 @@ p {
     color: #E05100;
 }
 
+
 .mag_catalog_title2 {
     margin-bottom: 15px;
 }
 
+
 .mag_catalog_title3 {
     margin-bottom: 15px;
 }
+
 
 .mag_server {
     margin-right: 118px;
